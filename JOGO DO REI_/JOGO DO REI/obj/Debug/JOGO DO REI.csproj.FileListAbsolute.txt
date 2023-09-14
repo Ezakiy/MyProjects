@@ -1,0 +1,33 @@
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\bin\Debug\JOGO DO REI.exe.config
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\bin\Debug\JOGO DO REI.exe
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\bin\Debug\JOGO DO REI.pdb
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.AssemblyReference.cache
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO_DO_REI.Form1.resources
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO_DO_REI.Properties.Resources.resources
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.GenerateResource.cache
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.CoreCompileInputs.cache
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.exe
+C:\Users\121780\source\repos\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.pdb
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\bin\Debug\JOGO DO REI.exe.config
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\bin\Debug\JOGO DO REI.exe
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\bin\Debug\JOGO DO REI.pdb
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO_DO_REI.Form1.resources
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO_DO_REI.Properties.Resources.resources
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.exe
+C:\Users\121780\Desktop\JOGO DO REI\JOGO DO REI\obj\Debug\JOGO DO REI.pdb
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\bin\Debug\JOGO DO REI.exe.config
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\bin\Debug\JOGO DO REI.exe
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\bin\Debug\JOGO DO REI.pdb
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO_DO_REI.Form1.resources
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO_DO_REI.Properties.Resources.resources
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO DO REI.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO DO REI.exe
+C:\Users\121780\Desktop\JOGO DO REI_\JOGO DO REI\obj\Debug\JOGO DO REI.pdb
